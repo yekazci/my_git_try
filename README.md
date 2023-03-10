@@ -1,2 +1,2 @@
 # my_git_try
-I will connect to this repo from my local enviroment
+I connected to this repo from my local R enviroment.
